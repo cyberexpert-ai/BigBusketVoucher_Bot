@@ -7,7 +7,7 @@ const BOT_NAME = 'BigBasket Voucher Hub';
 const CHANNELS = {
   MAIN: process.env.MAIN_CHANNEL || 'BigBasketVoucherHub',
   MAIN_LINK: 'https://t.me/BigBasketVoucherHub',
-  MAIN_ID: process.env.MAIN_CHANNEL_ID || '-1001000000000',
+  MAIN_ID: process.env.MAIN_CHANNEL_ID || '-1003503808231',
   ORDERS: process.env.ORDERS_CHANNEL || 'OrdersNotify',
   ORDERS_LINK: 'https://t.me/OrdersNotify',
   ORDERS_ID: process.env.ORDERS_CHANNEL_ID || '-1002862139182'
